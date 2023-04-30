@@ -6,4 +6,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdizynali&show_icons=true&locale=en&layout=compact" alt="mahdi zeinali" /></p>
 
-<meta name="google-site-verification" content="JgP3NFELiJ0H6l03LarmjTSK1oBKI1-skyFmVDjdrCI" />
+google-site-verification=JgP3NFELiJ0H6l03LarmjTSK1oBKI1-skyFmVDjdrCI
