@@ -8,3 +8,4 @@
 
 
 ![Snake animation](https://github.com/mahdizynali/mahdizynali/blob/output/github-contribution-grid-snake.svg)
+
