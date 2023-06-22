@@ -8,4 +8,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdizynali&show_icons=true&locale=en&layout=compact" alt="mahdi zeinali" /></p> -->
 
 <!-- ![Snake animation](https://github.com/mahdizynali/mahdizynali/blob/output/github-contribution-grid-snake.svg) -->
-I'm Mahdi Zeinali a student of computer engineering
+
