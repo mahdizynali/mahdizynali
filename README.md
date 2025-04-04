@@ -16,3 +16,8 @@ MMMM           MMMM  AAAA        AAAA         ZZZZZZZZ             EEEEE
 MMMM           MMMM  AAAA        AAAA       ZZZZZZZZZ              EEEEEEEEEEEEEEEEEEE
 MMMM           MMMM  AAAAA      AAAAA     ZZZZZZZZZZZZZZZZZZZZZZZ  EEEEEEEEEEEEEEEEEEE
 ```
+
+### # My Important Repositories Title
+[Seglight](https://github.com/mahdizynali/SegLight) : super fast semantic segment all \
+[Decathlon segnet](https://github.com/mahdizynali/Decathlon-lung-tumor-segmentation) : lung tumor segmentation \
+[MazeNet](https://github.com/mahdizynali/MazeNet) : c++ cnn mnist detection \
