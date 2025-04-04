@@ -27,3 +27,6 @@ MMMM           MMMM  AAAAA      AAAAA     ZZZZZZZZZZZZZZZZZZZZZZZ  EEEEEEEEEEEEE
 -------------------------------------------------------
 
 [Simix](https://github.com/mahdizynali/Simix) : Simple custom linux kernel \
+[Playground](https://github.com/mahdizynali/Soccer-Robot-Playground) [Ball Search](https://github.com/mahdizynali/robot-ball-search) : C++ Humanoid soccer robots simulation \
+[Route Planing](https://github.com/mahdizynali/Earth-Map-Route-Planning) : AI Routing algorithm on openCV UI \
+[All My Repositories](https://github.com/mahdizynali?tab=repositories)
