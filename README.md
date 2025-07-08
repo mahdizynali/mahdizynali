@@ -23,7 +23,8 @@ MMMM           MMMM  AAAAA      AAAAA     ZZZZZZZZZZZZZZZZZZZZZZZ  EEEEEEEEEEEEE
 [Sentiment NLP](https://github.com/mahdizynali/persian-sentiment-nlp) : Persian text emotional recognition \
 [BraTs2020](https://github.com/mahdizynali/BraTS2020-Tensorflow-Brain-Tumor-Segmentation) : Brain tumor segmentation \
 [MazeNet](https://github.com/mahdizynali/MazeNet) : C++ cnn digits detection \
-[Captcha OCR](https://github.com/mahdizynali/captcha-ocr) : Captcha detection and classifier
+[Captcha OCR](https://github.com/mahdizynali/captcha-ocr) : Captcha detection and classifier \
+[Deep-NN-Analysis-NLP](https://github.com/mahdizynali/Deep-Analysis-Persian-News) : Deep NN Persian News Analysis NLP
 
 -------------------------------------------------------
 
