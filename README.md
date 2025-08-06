@@ -20,10 +20,10 @@ MMMM           MMMM  AAAAA      AAAAA     ZZZZZZZZZZZZZZZZZZZZZZZ  EEEEEEEEEEEEE
 ### # My Important Repositories Title
 [Seglight](https://github.com/mahdizynali/SegLight) : Super fast semantic segment all \
 [Decathlon segnet](https://github.com/mahdizynali/Decathlon-lung-tumor-segmentation) : Lung tumor segmentation \
-[Sentiment NLP](https://github.com/mahdizynali/persian-sentiment-nlp) : Persian text emotional recognition \
 [BraTs2020](https://github.com/mahdizynali/BraTS2020-Tensorflow-Brain-Tumor-Segmentation) : Brain tumor segmentation \
-[MazeNet](https://github.com/mahdizynali/MazeNet) : C++ cnn digits detection \
+[MazeNet](https://github.com/mahdizynali/MazeNet) : C++ cnn digits detection (convolution + perceptron) \
 [Captcha OCR](https://github.com/mahdizynali/captcha-ocr) : Captcha detection and classifier \
+[Sentiment NLP](https://github.com/mahdizynali/persian-sentiment-nlp) : Persian text emotional recognition \
 [Deep-NN-Analysis-NLP](https://github.com/mahdizynali/Deep-Analysis-Persian-News) : Deep NN Persian News Analysis NLP
 
 -------------------------------------------------------
