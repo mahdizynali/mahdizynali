@@ -27,6 +27,9 @@ MMMM           MMMM  AAAAA      AAAAA     ZZZZZZZZZZZZZZZZZZZZZZZ  EEEEEEEEEEEEE
 [Deep-NN-Analysis-NLP](https://github.com/mahdizynali/Deep-Analysis-Persian-News) : Deep NN Persian News Analysis NLP
 
 -------------------------------------------------------
+[AI-models-exporter](https://github.com/mahdizynali/AI-models-exporter) : ALL-in-One Export all AI trained models into each ther 
+
+-------------------------------------------------------
 
 [Simix](https://github.com/mahdizynali/Simix) : Simple custom linux kernel \
 [Playground](https://github.com/mahdizynali/Soccer-Robot-Playground) [Ball Search](https://github.com/mahdizynali/robot-ball-search) : C++ Humanoid soccer robots simulation \
