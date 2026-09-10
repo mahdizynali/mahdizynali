@@ -19,7 +19,7 @@ MMMM           MMMM  AAAAA      AAAAA     ZZZZZZZZZZZZZZZZZZZZZZZ  EEEEEEEEEEEEE
 
 ### # My Important Repositories Title
 [Seglight](https://github.com/mahdizynali/SegLight) : Super fast semantic segment all \
-[Decathlon segnet](https://github.com/mahdizynali/Decathlon-lung-tumor-segmentation) : Lung tumor segmentation \
+[Decathlon segnet](https://github.com/mahdizynali/Decathlon-lung-tumor-segmentation) : Lung tumor Residual Attention segmentation \
 [BraTs2020](https://github.com/mahdizynali/BraTS2020-Tensorflow-Brain-Tumor-Segmentation) : Brain tumor segmentation \
 [MazeNet](https://github.com/mahdizynali/MazeNet) : C++ cnn digits detection (convolution + perceptron) \
 [Captcha OCR](https://github.com/mahdizynali/captcha-ocr) : Captcha detection and classifier \
